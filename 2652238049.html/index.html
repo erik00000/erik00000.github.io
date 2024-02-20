@@ -215,7 +215,7 @@
 <h2 id="配置-DNS-及解析"><a href="#配置-DNS-及解析" class="headerlink" title="配置 DNS 及解析"></a>配置 DNS 及解析</h2><p>设置 SPF 记录<br>您需要设置一条TXT记录，将根域名（比如我这里的maoge.pw）解析值设置如下。</p>
 <p>内容为 v&#x3D;spf1 mx ~all</p>
 <p>设置 DMARC 记录<br>DMARC记录的设置比较复杂，我们这里先简单设置一下，对于普通的域名邮箱足够使用了。以maoge.pw域名为例，您需要添加一条TXT记录，将_dmarc.maoge.pw (请不要遗漏dmarc前面的那个下划线)解析值设置为如下：</p>
-<p>v&#x3D;DMARC1; p&#x3D;none; pct&#x3D;100; rua&#x3D;mailto:<a href="mailto:&#x64;&#109;&#97;&#x72;&#99;&#x40;&#109;&#x61;&#x6f;&#x67;&#x65;&#x2e;&#x70;&#119;">&#x64;&#109;&#97;&#x72;&#99;&#x40;&#109;&#x61;&#x6f;&#x67;&#x65;&#x2e;&#x70;&#119;</a></p>
+<p>v&#x3D;DMARC1; p&#x3D;none; pct&#x3D;100; rua&#x3D;mailto:<a href="mailto:&#x64;&#x6d;&#x61;&#114;&#x63;&#64;&#x6d;&#97;&#x6f;&#x67;&#101;&#x2e;&#x70;&#119;">&#x64;&#x6d;&#x61;&#114;&#x63;&#64;&#x6d;&#97;&#x6f;&#x67;&#101;&#x2e;&#x70;&#119;</a></p>
 <p>设置 DKIM记录<br>配置DKIM记录之前，我们先要生成DKIM密钥。在SSH中执行：</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">amavisd-new showkeys</span><br></pre></td></tr></table></figure>
 <p>会看到类似于下面的密钥：<br><img src="https://cdn.jsdelivr.net/gh/erik00000/hexo-img/img/202401051626910.png" alt="iRedmail"></p>
