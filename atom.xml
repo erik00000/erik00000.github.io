@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wick&#39;Blog</title>
+  
+  <subtitle>日常技術Blog</subtitle>
+  <link href="http://joy.cloudns.biz/atom.xml" rel="self"/>
+  
+  <link href="http://joy.cloudns.biz/"/>
+  <updated>2024-02-21T06:01:46.215Z</updated>
+  <id>http://joy.cloudns.biz/</id>
+  
+  <author>
+    <name>Wick</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>安装Nginx Proxy Manager实现域名反代</title>
+    <link href="http://joy.cloudns.biz/undefined.html/"/>
+    <id>http://joy.cloudns.biz/undefined.html/</id>
+    <published>2024-02-20T09:56:13.000Z</published>
+    <updated>2024-02-21T06:01:46.215Z</updated>
+    
+    
+    <summary type="html">Hexo小技巧~</summary>
+    
+    
+    
+    <category term="Hexo" scheme="http://joy.cloudns.biz/categories/Hexo/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>新手学会安装docker与docker-compose教程</title>
+    <link href="http://joy.cloudns.biz/909704577.html/"/>
+    <id>http://joy.cloudns.biz/909704577.html/</id>
+    <published>2024-02-20T09:33:59.000Z</published>
+    <updated>2024-02-20T09:47:11.864Z</updated>
+    
+    
+    <summary type="html">docker</summary>
+    
+    
+    
+    <category term="docker-compose" scheme="http://joy.cloudns.biz/categories/docker-compose/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Sora技术：对个人网站创业者来说是机遇还是挑战？如何申请参与Sora内测</title>
+    <link href="http://joy.cloudns.biz/1746288451.html/"/>
+    <id>http://joy.cloudns.biz/1746288451.html/</id>
+    <published>2024-02-20T02:31:45.000Z</published>
+    <updated>2024-02-20T02:51:01.646Z</updated>
+    
+    
+    <summary type="html">chatgpt,AI</summary>
+    
+    
+    
+    <category term="sora" scheme="http://joy.cloudns.biz/categories/sora/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>免遇节点之在Ubuntu22.04上设置Tailscale</title>
+    <link href="http://joy.cloudns.biz/1775516554.html/"/>
+    <id>http://joy.cloudns.biz/1775516554.html/</id>
+    <published>2024-01-18T09:40:40.000Z</published>
+    <updated>2024-01-18T10:00:35.758Z</updated>
+    
+    
+    <summary type="html">免费节点~</summary>
+    
+    
+    
+    <category term="Tailscale" scheme="http://joy.cloudns.biz/categories/Tailscale/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>新手小夥伴有福了netim申請一年.best免費域名</title>
+    <link href="http://joy.cloudns.biz/4241049643.html/"/>
+    <id>http://joy.cloudns.biz/4241049643.html/</id>
+    <published>2024-01-12T08:07:53.000Z</published>
+    <updated>2024-01-12T09:32:02.298Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;地址：&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="免費域名" scheme="http://joy.cloudns.biz/categories/%E5%85%8D%E8%B2%BB%E5%9F%9F%E5%90%8D/"/>
+    
+    
+    <category term="免費域名" scheme="http://joy.cloudns.biz/tags/%E5%85%8D%E8%B2%BB%E5%9F%9F%E5%90%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>trollstore巨魔2安裝教程：小白也能輕松搞定</title>
+    <link href="http://joy.cloudns.biz/5735905.html/"/>
+    <id>http://joy.cloudns.biz/5735905.html/</id>
+    <published>2024-01-09T03:46:38.000Z</published>
+    <updated>2024-01-09T08:44:10.426Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;根据搜索结果，TrollStore2（巨魔商店2）的最新版本已经更新，支持iOS 16.5.1 -</summary>
+        
+      
+    
+    
+    
+    
+    <category term="巨魔" scheme="http://joy.cloudns.biz/tags/%E5%B7%A8%E9%AD%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iRedmail在Ubuntu 20.04上搭建自己的郵件服務器</title>
+    <link href="http://joy.cloudns.biz/2652238049.html/"/>
+    <id>http://joy.cloudns.biz/2652238049.html/</id>
+    <published>2024-01-05T08:08:00.000Z</published>
+    <updated>2024-01-05T08:36:53.933Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;很多小夥伴想自己搭建一臺郵件服務器，用於接收各種驗證碼。但是很多小型的vps廠家不支持，我也是踩過很多坑，於是自己在甲骨文東京服務器上嘗試著搭建，當然東京服務器必須是21年5月之前的才會開放25端口。&lt;/p&gt;
+&lt;p&gt;在Ubuntu 20.04 LTS</summary>
+        
+      
+    
+    
+    
+    <category term="iRedmail" scheme="http://joy.cloudns.biz/categories/iRedmail/"/>
+    
+    
+    <category term="iRedmail" scheme="http://joy.cloudns.biz/tags/iRedmail/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>學習如何在windows中清楚DNS緩存</title>
+    <link href="http://joy.cloudns.biz/3568696192.html/"/>
+    <id>http://joy.cloudns.biz/3568696192.html/</id>
+    <published>2024-01-03T07:00:02.000Z</published>
+    <updated>2024-01-03T07:06:35.501Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在有些時候，如果更新了自己域名的 DNS 記錄，但是由於緩存的原因，解析的還是舊的 DNS。因此，我們需要在自己的電腦清理下自己的 DNS 緩存。這篇教程我來教大家在 Windows 中如何清理 DNS 緩存&lt;/p&gt;
+&lt;p&gt;準備材料&lt;br&gt;Windows</summary>
+        
+      
+    
+    
+    
+    <category term="DNS" scheme="http://joy.cloudns.biz/categories/DNS/"/>
+    
+    
+    <category term="DNS記錄" scheme="http://joy.cloudns.biz/tags/DNS%E8%A8%98%E9%8C%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>宝塔破解版操作方法</title>
+    <link href="http://joy.cloudns.biz/3713810353.html/"/>
+    <id>http://joy.cloudns.biz/3713810353.html/</id>
+    <published>2023-12-30T08:09:05.000Z</published>
+    <updated>2023-12-30T08:20:02.847Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;宝塔终极破解方法&quot;&gt;&lt;a href=&quot;#宝塔终极破解方法&quot; class=&quot;headerlink&quot; title=&quot;宝塔终极破解方法&quot;&gt;&lt;/a&gt;宝塔终极破解方法&lt;/h1&gt;&lt;h2 id=&quot;1-直接安装V7-7-0的版本&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Hexo" scheme="http://joy.cloudns.biz/categories/Hexo/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo建立一个文章页面实现优化</title>
+    <link href="http://joy.cloudns.biz/212010534.html/"/>
+    <id>http://joy.cloudns.biz/212010534.html/</id>
+    <published>2023-12-29T09:00:33.925Z</published>
+    <updated>2023-12-29T09:21:36.778Z</updated>
+    
+    
+    <summary type="html">Hexo特效技巧~</summary>
+    
+    
+    
+    <category term="Hexo" scheme="http://joy.cloudns.biz/categories/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="http://joy.cloudns.biz/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>利用hexo-abbrlink插件生成唯一且可自定义的博客链接</title>
+    <link href="http://joy.cloudns.biz/3141625889.html/"/>
+    <id>http://joy.cloudns.biz/3141625889.html/</id>
+    <published>2023-12-26T09:08:03.000Z</published>
+    <updated>2023-12-26T09:14:38.738Z</updated>
+    
+    
+    <summary type="html">Hexo小技巧~</summary>
+    
+    
+    
+    <category term="Hexo" scheme="http://joy.cloudns.biz/categories/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="http://joy.cloudns.biz/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【Hexo主题】樱花动态效果，让你的博客焕发生机！</title>
+    <link href="http://joy.cloudns.biz/4272683327.html/"/>
+    <id>http://joy.cloudns.biz/4272683327.html/</id>
+    <published>2023-12-25T09:38:25.000Z</published>
+    <updated>2023-12-26T08:53:19.479Z</updated>
+    
+    
+    <summary type="html">Hexo特效技巧~</summary>
+    
+    
+    
+    <category term="Hexo" scheme="http://joy.cloudns.biz/categories/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="http://joy.cloudns.biz/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo主题优化</title>
+    <link href="http://joy.cloudns.biz/1269351842.html/"/>
+    <id>http://joy.cloudns.biz/1269351842.html/</id>
+    <published>2023-12-25T07:19:40.825Z</published>
+    <updated>2023-12-26T08:53:19.476Z</updated>
+    
+    
+    <summary type="html">Hexo小技巧~</summary>
+    
+    
+    
+    <category term="Hexo" scheme="http://joy.cloudns.biz/categories/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="http://joy.cloudns.biz/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何创建一个hexo的静态博客，免费部署在github上面，或者vercel容器里面，可以自定义域名</title>
+    <link href="http://joy.cloudns.biz/2419628377.html/"/>
+    <id>http://joy.cloudns.biz/2419628377.html/</id>
+    <published>2023-12-25T06:38:57.000Z</published>
+    <updated>2023-12-26T08:53:19.483Z</updated>
+    
+    
+    <summary type="html">Hexo小技巧~</summary>
+    
+    
+    
+    <category term="Hexo" scheme="http://joy.cloudns.biz/categories/Hexo/"/>
+    
+    
+  </entry>
+  
+</feed>
